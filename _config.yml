@@ -7,13 +7,16 @@ permalink: ':title/'
 
 ##########################
 #uncomment for DEV
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # uncomment for  PRODUCTION - uncomment
 baseurl: "/sorrynofocus.github.io" 
 url: "https://github.com/sorrynofocus" 
 ##########################
+
+sidebar-image: radar.jpg
+# background-image: url(http://localhost:4000/assets/img/radar.jpg);
 
 #site-twitter: #if your site has a twitter account, enter it here
 
