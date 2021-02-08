@@ -1,0 +1,38 @@
+title: sorrynofocus home #title bar in browser
+description: > # this means to ignore newlines until "baseurl:"
+  You'll find interesting articles, 
+  opinions, and trash I've 
+  collected on the internets.
+permalink: ':title/'
+baseurl: "/sorrynofocus.github.io" # the subpath of your site, e.g. /blog
+url: "https://github.com/sorrynofocus" # the base hostname & protocol for your site, e.g. http://example.com
+#site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: chris winters # add your name
+author-img: cw.jpg # add your photo
+#author-img: https://avatars.githubusercontent.com/u/41129889?s=60&v=4 # add your photo
+about-author: reflection, reports, & ramblings  # add description
+#social-twitter: # add your Twitter handle
+#social-facebook: # add your Facebook handle
+social-github: sorrynofocus # add your Github handle
+social-linkedin: christopherwinters  # add your Linkedin handle
+social-email: thechriswinters@gmail.com # add your Email address
+
+# Disqus
+#discus-identifier: mr-brown # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

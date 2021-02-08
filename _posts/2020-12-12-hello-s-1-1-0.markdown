@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Hello, S-1-1-0!"
+date: 2019-12-12 13:32:20 +0800
+description: The beginning of this home # Add post description (optional)
+img:  # Add image post (optional)
+---
+Hello S-1-1-0! 
+What is S-1-1-0 you ask? It means "everybody" - the world really in a Microsoft Security Identifier sense. It 's a security group that includes all users, even anonymous users, and guests. Instead of the casual _Hello, world!_ I thought I'd give it a twist. <BR>
+
+What is _Hello, world!_? *sigh*
+
+_Hello, world_ is a test program when you first write code as a beginner, or a _n00b_. I once proudly boasted my first _Hello, world!_ a long time ago. 
+
+Here's an example _Hello, world_ code in C#.
+
+{% highlight ruby %}
+
+// Hello World! program
+namespace HelloWorld
+{
+    class Hello {         
+        static void Main(string[] args)
+        {
+            System.Console.WriteLine("Hello World!");
+        }
+    }
+}
+
+#=> prints 'Hello, world!' to STDOUT.
+
+{% endhighlight %}
+
+Check out the [Microsoft SID doc][ms-sid-docs] for more info on Security Identifiers. You can read more _Hello, world!_ history at [Software Guild's blog page][hello-world-history]. 
+
+[ms-sid-docs]: https://docs.microsoft.com/en-us/troubleshoot/windows-server/identity/security-identifiers-in-windows
+[hello-world-history]:   https://www.thesoftwareguild.com/blog/the-history-of-hello-world/

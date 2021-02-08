@@ -1,0 +1,5 @@
+To generate favicons:
+
+https://www.favicon-generator.org/
+
+upload file nad download results.
