@@ -937,7 +937,9 @@ table tfoot td {
   height: 100%;
   padding: 20px 10px;
   background-color: #ffffff;
-  background-image: url("{{ site.url }}/assets/img/{{ site.sidebar-image }}") ;
+  /* background-image: url("{{ site.url }}/assets/img/{{ site.sidebar-image }}") ; */
+   background-image: url( "{{site.baseurl}}/assets/img/{% if site.sidebar-image %}{{site.sidebar-image}}{% endif %}" ) ; 
+  /* {{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}} */
 }
 
 .about {
