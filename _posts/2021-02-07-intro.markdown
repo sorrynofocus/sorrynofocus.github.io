@@ -10,10 +10,11 @@ tags: [beginning, intro]
 thanks for stopping by and reading the introduction to my blog. this is where i will post for now on,
 
 ## i love sundae
-i love sundae. ice-cream. it is an addition i cannot get away from. a dear, daer friend in south africa (za) and I have a running joke about frozen yogurt. this was established because i used to frequent this frozen custard stand in portmouth, virginia. this was the most, amazing, fozen yogurt and custard i've ever laid my tongue on. the word _amazing_ may be in vain actually, but i'm not being total bs. you _will_ have to visit and try it for yourself. nothing in the universe comes close to the quality.  The name of this fine place is named _Uncle Rick's Frozen Custard_ and come to think of it, my friend Eugene had it confused thinking they sold yogurt. 
+I love sundae. Ice-cream. It's an addition I cannot get away from. Eugene, a dear friend of mine, and I have a running joke about frozen yogurt. This is because I used to frequent a frozen custard stand in Portmouth, Virginia. This was the most, amazing, fozen custard I've ever laid my tongue on. The word _amazing_ might be too vain to say... but actually, I'm not. You _will_ have to visit and try it for yourself. Nothing in the universe comes close to the quality.  
+The name of this _fine_ place is named _Uncle Rick's Frozen Custard_ and come to think of it, my friend Eugene had it confused thinking they sold yogurt. 
 
 ![I love fozen yogurt]({{site.baseurl}}/assets/img/unclericks.jpg)
-<P>I miss this place. It served me many memories with special people in my ilfe. They know who they are. If you ever find yourself in Portsmouth, stop on by:</P>
+<P>I miss this place about Virginia. It served me many memories with special people in my ilfe. They know who they are. If you ever find yourself in Portsmouth, stop on by:</P>
 _2829 Airline Blvd, Portsmouth, VA 23701_
 
 
@@ -31,7 +32,13 @@ Things I cannot get enough of:
 >NOTE: There are things in tech I cannot stand. This is the dish washer. The most ineffcient fucking thing in the universe.
 
 
+TODO write:
+* why do you like tech?
+* how did you get started?
+* the people who have motivated you during career
 
-Wayfarers lyft DIY sriracha succulents twee adaptogen crucifix gastropub actually hexagon raclette franzen polaroid la croix. Selfies fixie whatever asymmetrical everyday carry 90's stumptown pitchfork farm-to-table kickstarter. Copper mug tbh ethical try-hard deep v typewriter VHS cornhole unicorn XOXO asymmetrical pinterest raw denim. Skateboard small batch man bun polaroid neutra. Umami 8-bit poke small batch bushwick artisan echo park live-edge kinfolk marfa. Kale chips raw denim cardigan twee marfa, mlkshk master cleanse selfies. Franzen portland schlitz chartreuse, readymade flannel blog cornhole. Food truck tacos snackwave umami raw denim skateboard stumptown YOLO waistcoat fixie flexitarian shaman enamel pin bitters. Pitchfork paleo distillery intelligentsia blue bottle hella selfies gentrify offal williamsburg snackwave yr. Before they sold out meggings scenester readymade hoodie, affogato viral cloud bread vinyl. Thundercats man bun sriracha, neutra swag knausgaard jean shorts. Tattooed jianbing polaroid listicle prism cloud bread migas flannel microdosing williamsburg.
+In act 3, title why this blog exists?
+* why use this blog?
+* what will be in it?
 
-Echo park try-hard irony tbh vegan pok pok. Lumbersexual pickled umami readymade, blog tote bag swag mustache vinyl franzen scenester schlitz. Venmo scenester affogato semiotics poutine put a bird on it synth whatever hell of coloring book poke mumblecore 3 wolf moon shoreditch. Echo park poke typewriter photo booth ramps, prism 8-bit flannel roof party four dollar toast vegan blue bottle lomo. Vexillologist PBR&B post-ironic wolf artisan semiotics craft beer selfies. Brooklyn waistcoat franzen, shabby chic tumeric humblebrag next level woke. Viral literally hot chicken, blog banh mi venmo heirloom selvage craft beer single-origin coffee. Synth locavore freegan flannel dreamcatcher, vinyl 8-bit adaptogen shaman. Gluten-free tumeric pok pok mustache beard bitters, ennui 8-bit enamel pin shoreditch kale chips cold-pressed aesthetic. Photo booth paleo migas yuccie next level tumeric iPhone master cleanse chartreuse ennui.
+

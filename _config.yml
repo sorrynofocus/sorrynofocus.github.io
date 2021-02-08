@@ -4,8 +4,17 @@ description: > # this means to ignore newlines until "baseurl:"
   opinions, and trash I've 
   collected on the internets.
 permalink: ':title/'
-baseurl: "/sorrynofocus.github.io" # the subpath of your site, e.g. /blog
-url: "https://github.com/sorrynofocus" # the base hostname & protocol for your site, e.g. http://example.com
+
+##########################
+#uncomment for DEV
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# uncomment for  PRODUCTION - uncomment
+baseurl: "/sorrynofocus.github.io" 
+url: "https://github.com/sorrynofocus" 
+##########################
+
 #site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
@@ -19,11 +28,12 @@ social-github: sorrynofocus # add your Github handle
 social-linkedin: christopherwinters  # add your Linkedin handle
 social-email: thechriswinters@gmail.com # add your Email address
 
-# Disqus
-#discus-identifier: mr-brown # add your discus identifier
+# Disqus  - add your discus identifier
+#discus-identifier: Gunner 
 
 # Tracker
-analytics: # Google Analytics
+# Google Analytics
+analytics: 
 
 # Build Settings
 markdown: kramdown

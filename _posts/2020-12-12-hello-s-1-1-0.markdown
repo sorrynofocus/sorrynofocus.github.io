@@ -33,5 +33,10 @@ namespace HelloWorld
 
 Check out the [Microsoft SID doc][ms-sid-docs] for more info on Security Identifiers. You can read more _Hello, world!_ history at [Software Guild's blog page][hello-world-history]. 
 
+### Getting to the point, world...
+The point of this Hello, world is to give the statement to whomever is reading this blog. It is the beginning.... The beginning in reading topics on various things I manage to think of. 
+
+_This page was left intentionally plain_
+
 [ms-sid-docs]: https://docs.microsoft.com/en-us/troubleshoot/windows-server/identity/security-identifiers-in-windows
 [hello-world-history]:   https://www.thesoftwareguild.com/blog/the-history-of-hello-world/
